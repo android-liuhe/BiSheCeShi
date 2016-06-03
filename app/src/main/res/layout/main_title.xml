@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:background="@color/light_toolbar">
+
+    <TextView
+        android:id="@+id/tv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="菜单"
+        android:textColor="#fff"
+        android:textSize="15sp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="知乎日报"
+        android:textColor="#fff"
+        android:layout_marginLeft="110dp"
+        android:textSize="20sp"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>

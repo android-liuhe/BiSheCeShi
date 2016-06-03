@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liuhe/Downloads/Kanner-master/Kanner For AndroidStudio/KannerDemo/kanner/build/intermediates/res/merged/androidTest/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/liuhe/Downloads/Kanner-master/Kanner For AndroidStudio/KannerDemo/kanner/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/liuhe/AndroidStudioProjects/BiSheCeShi/kanner/build/intermediates/res/merged/androidTest/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/liuhe/AndroidStudioProjects/BiSheCeShi/kanner/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

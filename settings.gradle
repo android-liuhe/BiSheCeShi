@@ -1,0 +1,2 @@
+include ':app', ':gson-2.3.1', ':volley'
+include ':SlidingMenu', ':kanner'
